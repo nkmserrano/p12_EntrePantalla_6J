@@ -19,7 +19,6 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Entre Pantallas Nairobi Montiel: FlutLab - Flutter Online IDE
-
 - Capturas
 ![image](https://github.com/nkmserrano/p12_EntrePantalla_6J/assets/143548150/05e49846-3200-4d7f-9a02-cc24a879a24a)
 ![image](https://github.com/nkmserrano/p12_EntrePantalla_6J/assets/143548150/3262cb8d-6923-4da9-8344-5738dbd5dcc8)
